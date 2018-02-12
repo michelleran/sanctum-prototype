@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "sanctum-prototype.data.unityweb",
+"asmCodeUrl": "sanctum-prototype.asm.code.unityweb",
+"asmMemoryUrl": "sanctum-prototype.asm.memory.unityweb",
+"asmFrameworkUrl": "sanctum-prototype.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
